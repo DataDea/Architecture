@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1303b3e7-92bc-4713-92fb-2c101f700d25" name="Default Changelist" comment="init" />
+    <list default="true" id="1303b3e7-92bc-4713-92fb-2c101f700d25" name="Default Changelist" comment="init">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +40,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -89,7 +91,7 @@
       <workItem from="1627053014983" duration="4000" />
       <workItem from="1627309524779" duration="889000" />
       <workItem from="1627310561099" duration="95000" />
-      <workItem from="1627311302065" duration="406000" />
+      <workItem from="1627311302065" duration="952000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1627310103254</created>
